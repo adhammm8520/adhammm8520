@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌱 I’m currently learning front end development
+- 🔭 I’m currently working on become a full stak eng
 
 <!--
 **adhammm8520/adhammm8520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
